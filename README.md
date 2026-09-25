@@ -75,8 +75,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dinesh99673&show_icons=true&hide_border=true&bg_color=0d1117&title_color=EDAD72&icon_color=EDAD72&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh99673&layout=compact&hide_border=true&bg_color=0d1117&title_color=EDAD72&text_color=c9d1d9" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinesh99673&theme=github_dark" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinesh99673&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dinesh99673&theme=github_dark" alt="Most committed languages" />
 </p>
 
 <p align="center">
